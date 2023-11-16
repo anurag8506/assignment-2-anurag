@@ -1,0 +1,226 @@
+* {box-sizing: border-box}
+
+#top2{
+    display: flex;
+    justify-content:space-between;
+
+}
+#mypar2{
+    margin-left: 650px;
+   font-weight: bold;
+   font-size: 25px;
+   margin-top: 50px;
+}
+#backbtn{
+    margin-right: 30px;
+    margin-top: 40px;
+}
+#blacbtn2{
+    border: 0;
+    margin-right: 0px;
+    width:150px;
+    height: 38px;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 138px;
+    background-color: black;
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+}
+#instruction{
+    height: 10px;
+    margin-bottom: 17px;
+}
+#instr{
+    padding-left: 700px;
+    font-weight: bold;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+#signupform{
+    padding-left: 567px;
+    width: 800px;
+    height: 600px;
+}
+#firstlast{
+   
+    width: 100px;
+    padding-right: 600px;
+   
+
+}
+form{
+    height: 200px;
+}
+form.form-main {
+    display: table;
+  }
+  
+  div.form-example {
+    display: table-row;
+  }
+  
+ 
+  label{
+    display: table-cell;
+    margin-bottom: 5px;
+    width: 470px;
+    height: 10px;
+    border-radius: 10px;
+    
+  } 
+  
+  input {
+    display: table-cell;
+    padding-left: 10px;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    width: 470px;
+    height: 42px;
+    border-radius: 10px;
+    
+  }
+  
+  label {
+    padding-right: 10px;
+   
+  }
+   
+  p,
+label {
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+
+input {
+  margin: 0.3rem;
+}
+
+#scales{
+    height: 19px;
+    width: 19px;
+    background-color: #2BC48C;
+    font-size: 8px;
+}
+#checky{
+    display: flex;
+}
+
+
+    
+
+#checkwrap{
+    display: flex;
+}
+#scales1{
+    width: 15px;
+    height: 15px;
+}
+label1{
+    width:210px;
+ 
+
+}
+
+#note{
+    height: 50px;
+    width: 400px;
+}
+  
+.notice{
+    font-size: 12px;
+    padding-left: 75px;
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+#form-main3{
+    border-radius: 50px;
+}
+#subm{
+    border-radius: 50px;
+    background-color: #90DCC0;
+    color: white;
+    border-color: #90DCC0;
+}
+#signup{
+    margin-left: 590px;
+    padding-bottom: 70px;
+}
+#signy{
+   padding-bottom: 400px;
+
+}
+#signcol{
+   color: #90DCC0;
+   
+
+}
+#terms{
+    color: #90DCC0;
+}
+#policy{
+    color: #90DCC0;
+}
+
+#scale2{
+    width: 15px;
+    height: 15px;
+}
+#gup{
+    display: flex;
+}
+#checki2{
+ display: flex;
+}
+#info{
+    height: 50px;
+    width: 400px;
+}
+#information{
+    font-size: 12px;
+    padding-left: 90px;
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+#hline{
+    width: 470px;
+    padding-left: 15px;
+    border-top: 2px solid #2BC48C;
+}
+#lastinf{
+    padding-left: 80px;
+    height: 50px;
+    width: 400px;
+}
+#Lastthing{
+    font-size: 12px;
+    padding-left: 50px;
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.subinfo{
+    font-size: 10px;
+    color: grey;
+    padding-top: 0px;
+    margin-top: 3px;
+}
+#sign{
+    color: #2BC48C;
+}
+#topinst{
+    font-size: 14px;
+    font-weight: bold;
+}
+#myid1{
+    display: flex;
+}
